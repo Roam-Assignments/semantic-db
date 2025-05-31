@@ -7,7 +7,8 @@
       "#FF00FF",
       "#00FFFF"
     ],
-    "Notes": "Ideal for cyberpunk themes."
+    "Notes": "Ideal for cyberpunk themes.",
+    "Description": "A glowing neon shader used in sci-fi scenes."
   },
   {
     "ShaderID": "SHD2",
@@ -17,7 +18,8 @@
       "#000000",
       "#FFFFFF"
     ],
-    "Notes": "Toon shading with edge outlines."
+    "Notes": "Toon shading with edge outlines.",
+    "Description": "A black outlined shader used for cartoon effects."
   },
   {
     "ShaderID": "SHD3",
@@ -27,7 +29,8 @@
       "#AAAAAA",
       "#CCCCCC"
     ],
-    "Notes": "Realistic metal shader."
+    "Notes": "Realistic metal shader.",
+    "Description": "Simulates a reflective metallic surface."
   },
   {
     "ShaderID": "SHD4",
@@ -37,7 +40,8 @@
       "#DDDDDD",
       "#BBBBBB"
     ],
-    "Notes": "Blurry glass effect."
+    "Notes": "Blurry glass effect.",
+    "Description": "Creates a frosted glass surface with translucency."
   },
   {
     "ShaderID": "SHD5",
@@ -47,7 +51,8 @@
       "#FF4500",
       "#B22222"
     ],
-    "Notes": "Glowing lava cracks."
+    "Notes": "Glowing lava cracks.",
+    "Description": "An animated shader resembling flowing lava."
   },
   {
     "ShaderID": "SHD6",
@@ -57,7 +62,8 @@
       "#1E90FF",
       "#00CED1"
     ],
-    "Notes": "Wavy animated surface."
+    "Notes": "Wavy animated surface.",
+    "Description": "Mimics water with reflection and animation."
   },
   {
     "ShaderID": "SHD7",
@@ -67,7 +73,8 @@
       "#DEB887",
       "#F4A460"
     ],
-    "Notes": "Dry desert look."
+    "Notes": "Dry desert look.",
+    "Description": "A sandy, grainy shader for desert terrain."
   },
   {
     "ShaderID": "SHD8",
@@ -77,7 +84,8 @@
       "#8B4513",
       "#A0522D"
     ],
-    "Notes": "Wood grain detail."
+    "Notes": "Wood grain detail.",
+    "Description": "Represents a textured wood surface."
   },
   {
     "ShaderID": "SHD9",
@@ -87,7 +95,8 @@
       "#228B22",
       "#6B8E23"
     ],
-    "Notes": "Organic glowing skin."
+    "Notes": "Organic glowing skin.",
+    "Description": "Glowing organic surface, great for alien characters."
   },
   {
     "ShaderID": "SHD10",
@@ -97,6 +106,7 @@
       "#F8F8FF",
       "#E0E0E0"
     ],
-    "Notes": "Ethereal partial transparency."
+    "Notes": "Ethereal partial transparency.",
+    "Description": "Ghost-like transparency with fade effects."
   }
 ]
