@@ -1,0 +1,91 @@
+[
+  {
+    "BID": "BA100",
+    "Name": "Double Jump",
+    "Description": "Allows the player to jump a second time in mid-air.",
+    "Variables": {
+      "maxJumps": 2,
+      "cooldown": 1.5
+    }
+  },
+  {
+    "BID": "BA101",
+    "Name": "Wall Climb",
+    "Description": "Enables the player to climb walls.",
+    "Variables": {
+      "climbSpeed": 5.0,
+      "duration": 4.0
+    }
+  },
+  {
+    "BID": "BA102",
+    "Name": "Dash",
+    "Description": "Quickly moves the player in a chosen direction.",
+    "Variables": {
+      "dashDistance": 7.0,
+      "cooldown": 2.0
+    }
+  },
+  {
+    "BID": "BA103",
+    "Name": "Grapple Hook",
+    "Description": "Lets the player grapple to surfaces.",
+    "Variables": {
+      "range": 12.0,
+      "cooldown": 3.5
+    }
+  },
+  {
+    "BID": "BA104",
+    "Name": "Invisibility",
+    "Description": "Makes the player invisible for a short time.",
+    "Variables": {
+      "duration": 5,
+      "energyCost": 20
+    }
+  },
+  {
+    "BID": "BA105",
+    "Name": "Shield",
+    "Description": "Creates a protective shield around the player.",
+    "Variables": {
+      "shieldHP": 50,
+      "duration": 6
+    }
+  },
+  {
+    "BID": "BA106",
+    "Name": "Teleport",
+    "Description": "Instantly teleports the player forward.",
+    "Variables": {
+      "range": 8.0,
+      "cooldown": 4.0
+    }
+  },
+  {
+    "BID": "BA107",
+    "Name": "Time Slow",
+    "Description": "Slows time for everything but the player.",
+    "Variables": {
+      "duration": 3.0
+    }
+  },
+  {
+    "BID": "BA108",
+    "Name": "Super Jump",
+    "Description": "Temporarily boosts jump height.",
+    "Variables": {
+      "jumpBoost": 2.5,
+      "duration": 2
+    }
+  },
+  {
+    "BID": "BA109",
+    "Name": "Heal",
+    "Description": "Restores a portion of player health over time.",
+    "Variables": {
+      "healRate": 5,
+      "duration": 10
+    }
+  }
+]

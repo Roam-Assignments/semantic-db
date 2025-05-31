@@ -1,0 +1,85 @@
+[
+  {
+    "OID": "OBJ1",
+    "Title": "Collect Coins",
+    "Description": "Collect 100 coins.",
+    "WinCondition": {
+      "coins": 100
+    }
+  },
+  {
+    "OID": "OBJ2",
+    "Title": "Survive Timer",
+    "Description": "Stay alive for 2 minutes.",
+    "WinCondition": {
+      "duration": 120
+    }
+  },
+  {
+    "OID": "OBJ3",
+    "Title": "Kill Enemies",
+    "Description": "Defeat 10 enemies.",
+    "WinCondition": {
+      "kills": 10
+    }
+  },
+  {
+    "OID": "OBJ4",
+    "Title": "Rescue NPC",
+    "Description": "Rescue the hostage.",
+    "WinCondition": {
+      "npcSafe": true
+    }
+  },
+  {
+    "OID": "OBJ5",
+    "Title": "Activate Switches",
+    "Description": "Flip all 3 switches.",
+    "WinCondition": {
+      "switches": 3
+    }
+  },
+  {
+    "OID": "OBJ6",
+    "Title": "Reach Exit",
+    "Description": "Get to the level exit.",
+    "WinCondition": {
+      "exitReached": true
+    }
+  },
+  {
+    "OID": "OBJ7",
+    "Title": "Capture Flag",
+    "Description": "Bring the flag back.",
+    "WinCondition": {
+      "flagReturned": true
+    }
+  },
+  {
+    "OID": "OBJ8",
+    "Title": "Hack Terminal",
+    "Description": "Hack a terminal undetected.",
+    "WinCondition": {
+      "hacked": true,
+      "detected": false
+    }
+  },
+  {
+    "OID": "OBJ9",
+    "Title": "Protect Object",
+    "Description": "Keep generator alive for 3 min.",
+    "WinCondition": {
+      "generatorHP": ">0",
+      "duration": 180
+    }
+  },
+  {
+    "OID": "OBJ10",
+    "Title": "Escort",
+    "Description": "Escort ally to safe zone.",
+    "WinCondition": {
+      "npcReached": true,
+      "npcHealth": ">0"
+    }
+  }
+]

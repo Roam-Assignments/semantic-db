@@ -1,0 +1,102 @@
+[
+  {
+    "ShaderID": "SHD1",
+    "Name": "Neon Glow",
+    "Style": "Emissive",
+    "ColorPalette": [
+      "#FF00FF",
+      "#00FFFF"
+    ],
+    "Notes": "Ideal for cyberpunk themes."
+  },
+  {
+    "ShaderID": "SHD2",
+    "Name": "Cartoon Outline",
+    "Style": "Toon",
+    "ColorPalette": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "Notes": "Toon shading with edge outlines."
+  },
+  {
+    "ShaderID": "SHD3",
+    "Name": "Metallic",
+    "Style": "PBR",
+    "ColorPalette": [
+      "#AAAAAA",
+      "#CCCCCC"
+    ],
+    "Notes": "Realistic metal shader."
+  },
+  {
+    "ShaderID": "SHD4",
+    "Name": "Frosted Glass",
+    "Style": "Translucent",
+    "ColorPalette": [
+      "#DDDDDD",
+      "#BBBBBB"
+    ],
+    "Notes": "Blurry glass effect."
+  },
+  {
+    "ShaderID": "SHD5",
+    "Name": "Lava",
+    "Style": "Animated",
+    "ColorPalette": [
+      "#FF4500",
+      "#B22222"
+    ],
+    "Notes": "Glowing lava cracks."
+  },
+  {
+    "ShaderID": "SHD6",
+    "Name": "Water",
+    "Style": "Reflective",
+    "ColorPalette": [
+      "#1E90FF",
+      "#00CED1"
+    ],
+    "Notes": "Wavy animated surface."
+  },
+  {
+    "ShaderID": "SHD7",
+    "Name": "Sand",
+    "Style": "Rough",
+    "ColorPalette": [
+      "#DEB887",
+      "#F4A460"
+    ],
+    "Notes": "Dry desert look."
+  },
+  {
+    "ShaderID": "SHD8",
+    "Name": "Wood",
+    "Style": "Textured",
+    "ColorPalette": [
+      "#8B4513",
+      "#A0522D"
+    ],
+    "Notes": "Wood grain detail."
+  },
+  {
+    "ShaderID": "SHD9",
+    "Name": "Alien Skin",
+    "Style": "Specular",
+    "ColorPalette": [
+      "#228B22",
+      "#6B8E23"
+    ],
+    "Notes": "Organic glowing skin."
+  },
+  {
+    "ShaderID": "SHD10",
+    "Name": "Ghost",
+    "Style": "Alpha Fade",
+    "ColorPalette": [
+      "#F8F8FF",
+      "#E0E0E0"
+    ],
+    "Notes": "Ethereal partial transparency."
+  }
+]

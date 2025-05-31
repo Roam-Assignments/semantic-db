@@ -1,0 +1,91 @@
+[
+  {
+    "BID": "AB1",
+    "Name": "Patrol",
+    "Description": "Moves between waypoints.",
+    "Variables": {
+      "speed": 2.0,
+      "pauseTime": 1.0
+    }
+  },
+  {
+    "BID": "AB2",
+    "Name": "Chase",
+    "Description": "Chases the player if detected.",
+    "Variables": {
+      "detectionRange": 10.0,
+      "chaseSpeed": 3.5
+    }
+  },
+  {
+    "BID": "AB3",
+    "Name": "Attack",
+    "Description": "Attacks when in range.",
+    "Variables": {
+      "attackRange": 1.5,
+      "damage": 10
+    }
+  },
+  {
+    "BID": "AB4",
+    "Name": "Idle",
+    "Description": "Stands still and plays idle animation.",
+    "Variables": {
+      "animation": "idle_loop"
+    }
+  },
+  {
+    "BID": "AB5",
+    "Name": "Shoot",
+    "Description": "Fires projectiles.",
+    "Variables": {
+      "projectileSpeed": 8,
+      "fireRate": 1
+    }
+  },
+  {
+    "BID": "AB6",
+    "Name": "Flee",
+    "Description": "Runs away from the player.",
+    "Variables": {
+      "fleeSpeed": 4.0,
+      "fearThreshold": 0.3
+    }
+  },
+  {
+    "BID": "AB7",
+    "Name": "Hide",
+    "Description": "Hides when player is near.",
+    "Variables": {
+      "triggerRange": 6.0,
+      "hideDuration": 5
+    }
+  },
+  {
+    "BID": "AB8",
+    "Name": "Heal Ally",
+    "Description": "Heals nearby allies.",
+    "Variables": {
+      "range": 5.0,
+      "healAmount": 15
+    }
+  },
+  {
+    "BID": "AB9",
+    "Name": "Call Backup",
+    "Description": "Summons reinforcements.",
+    "Variables": {
+      "cooldown": 20,
+      "unitsCalled": 2
+    }
+  },
+  {
+    "BID": "AB10",
+    "Name": "Explode",
+    "Description": "Self-detonates near player.",
+    "Variables": {
+      "blastRadius": 4.0,
+      "damage": 50
+    }
+  }
+]
